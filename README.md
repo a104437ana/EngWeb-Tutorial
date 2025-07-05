@@ -6,7 +6,7 @@ No teste de 2025 tive **18.2** de 20 (não cheguei aos 20 porque a última pergu
 
 Seja como for, acertei tudo menos a última questão, usando **este tutorial** que agora torno público.
 
-Fico super feliz se isto ajudar alguém no futuro 🩷
+Fico super feliz se isto ajudar alguém no futuro ❤️
 
 Se isto te ajudar, uma estrela neste [repositório](https://github.com/a104437ana/EngWeb-Tutorial) era muito bem-vinda ⭐
 
@@ -159,5 +159,5 @@ git push
 ## 🌂 Depois do teste
 
 ### ✅ Deixar uma estrela neste [repositório](https://github.com/a104437ana/EngWeb-Tutorial) ⭐☺️👉👈
-### ✅ Seguir-[me](https://github.com/a104437ana) no Github 🌷🩷
+### ✅ Seguir-[me](https://github.com/a104437ana) no Github 🌷❤️
 ### ✅ Esperar pela nota com confiança e tranquilidade 😎🍀
